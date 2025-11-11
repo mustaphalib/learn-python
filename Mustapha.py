@@ -66,7 +66,7 @@ animaux = ["girafe", "souris", "lion", "vache", "chat", "chien"]
 #     print(hay)  
 # print("fin")
 # print(len(animaux))
-
+print("hello")
 def afficher_animaux():
     print(animaux)
 
