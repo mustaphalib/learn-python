@@ -6,7 +6,7 @@ L = ["Python", "Java", "C ++", "Javascript"]
 # l'algorithme renvoie la liste:
 ["Javascript", "Java", "C ++", "Python"]
 
-# Solution
+# Solutions
 
 Box = L[0]
 L[0] = L[-1]
