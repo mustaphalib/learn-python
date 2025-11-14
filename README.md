@@ -8,13 +8,13 @@ git push -u origin main
 ```
 
 # Exercice 1:
-# Ecrire un algorithme Python permettant d'échanger le premier élément avec le dernier élément d'une liste donnée.
-# Exemple:
+### Ecrire un algorithme Python permettant d'échanger le premier élément avec le dernier élément d'une liste donnée.
+### Exemple:
 ```python
 L = ["Python", "Java", "C ++", "Javascript"]
 ```
 
-# l'algorithme renvoie la liste:
+### l'algorithme renvoie la liste:
 ```python
 ["Javascript", "Java", "C ++", "Python"]
 ```
@@ -28,7 +28,7 @@ print(L)
 ```
 
 # Excercice 2:
-# Etant donné une liste d'entiers L, écrire un programme en Python qui renvoie la somme des éléments de la liste L.
+### Etant donné une liste d'entiers L, écrire un programme en Python qui renvoie la somme des éléments de la liste L.
 ```python
 M = [6 ,1 ,4 , 7, 8, 4, 1, 3, 5]
 ```
