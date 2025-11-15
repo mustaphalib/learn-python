@@ -12,3 +12,4 @@ print("My name is {nom} I am {l3mer} years old, and my Id is {hawiya}".format(l3
 print(f"My name is {Name} I am {Age} years old, and my Id is {Identif}")
 # derniere ligne
 print("My name is %s I am %d years old, and my Id is %s"%(Name, Age, Identif))
+# test 3 a été ajouter
