@@ -37,8 +37,3 @@ print(min(M))
 
 print(max(M))
 
-
-print("""hello 
-salut
-ca va
-""")
